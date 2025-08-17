@@ -8,8 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/JabezJesudasonJena"><img alt="GitHub followers" src="https://img.shields.io/github/followers/JabezJesudasonJena?label=Follow&style=flat-square"></a>
-  <a href="mailto:jabezjenaofficial@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jabezjenaofficial%40gmail.com-blue?style=flat-square"></a>
+  <a href="mailto:jabezjena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jabezjena%40gmail.com-blue?style=flat-square"></a>
   <a href="https://linkedin.com/in/jabezjena"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jabezjena-blue?style=flat-square&logo=linkedin"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=JabezJesudasonJena&style=for-the-badge">
 </p>
 
 <!-- ============================= TERMINAL INTRO ============================= -->
