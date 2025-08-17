@@ -80,6 +80,20 @@ Full-stack **MERN e-commerce site** for artisans. Responsive UI built with **Tai
 
 ---
 
+## ⏳ Journey Timeline
+
+```mermaid
+timeline
+  title My Tech Journey
+  2023 : Started with programming basics (C, C++, Java)
+  2024 : Built first full-stack projects, explored AI
+  2025 : Internships at EinNel (Data Analyst) & Thenam (Web Dev)
+  2025 : Developed AI solutions — Cellence AI, ResQnet
+  Future : Aim to lead impactful AI x Full-Stack innovations
+```
+
+---
+
 ## 📊 GitHub Overview
 
 <p align="center">
