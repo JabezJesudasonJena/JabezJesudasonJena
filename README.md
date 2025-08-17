@@ -1,9 +1,9 @@
-<!-- Profile README for GitHub | Jabez Jena -->
+<!-- Profile README for GitHub | Jabez Jena (Advanced) -->
 
 <!-- ============================= HERO ============================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jabez+Jena+%F0%9F%91%8B;AI+%26+Full+Stack+Developer;I+build+useful+things+with+data+%26+code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jabez+Jena+%F0%9F%91%8B;AI+%26+Full+Stack+Developer;I+turn+ideas+into+products;Solving+real-world+problems+with+AI+%26+Code" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,32 +19,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:111827&height=120&section=header" alt="wave divider"/>
 </p>
 
-<!-- ============================= ONE-LINER ============================= -->
+<!-- ============================= TERMINAL INTRO ============================= -->
 
-<p align="center">
-  <b>I turn ideas into working products</b> — from <i>deep learning</i> experiments to <i>full‑stack</i> apps with clean UX.
-</p>
+```bash
+$ whoami
+> Jabez Jena: AI Explorer & Full Stack Builder
 
-<!-- ============================= QUICK STATS (ANIMATED) ============================= -->
+$ projects --list
+> Celligence AI | ResQnet | Zaymazone
+
+$ motto
+> "I don’t just build projects. I build solutions."
+```
+
+<!-- ============================= QUICK STATS ============================= -->
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&hide_border=true&count_private=true" alt="Jabez's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Jabez's GitHub stats"/>
 </a>
 <a href="https://git.io/streak-stats">
-  <img height="170" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&hide_border=true" alt="GitHub Streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&hide_border=true&theme=radical" alt="GitHub Streak"/>
 </a>
 
 </div>
-
-<!-- ============================= HIGHLIGHTS ============================= -->
-
-## ✨ Highlights
-
-* **Data Analyst Intern** @ *EinNel Technologies* — building insights dashboards with **Angular** & data viz.
-* **Web Developer Intern** @ *Thenam Software Solutions* — crafted a MERN + **Tailwind** e‑commerce for artisans.
-* Led teams in **hackathons** and **GDG Solution Challenge**; presented technical papers; fluent in **Tamil | English | Hindi | Odia | Bengali**.
 
 <!-- ============================= FEATURED PROJECTS ============================= -->
 
@@ -63,7 +62,7 @@
       <br/>
       <sub>MolGPT • CNN • RDKit • DeepPurpose</sub>
       <br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRwZzZ3N2F0dG9pMDNjN3BwaGJ5cDV4YzZneGZ0ZW5kZWxqbmJ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YtZOb9EUABnuqA/giphy.gif" width="100%" alt="molecule animation"/>
+      <img src="https://media.giphy.com/media/3o7TKz6F5vT2h2z8ZW/giphy.gif" width="100%" alt="molecule animation"/>
     </td>
     <td width="33%" align="center">
       <a href="https://jabezjesudasonjena.github.io/ResQnet/">
@@ -74,7 +73,7 @@
       <br/>
       <sub>AI Assistant • Live Alerts • Shelter Finder</sub>
       <br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25lN2tob2p0ZXd3cnZ6dTE1cDcyaDd0eGd2N2h6eHk0Z2l5ZHZzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPpf0zTqRA4TWNa/giphy.gif" width="100%" alt="map animation"/>
+      <img src="https://media.giphy.com/media/xT9DPpf0zTqRA4TWNa/giphy.gif" width="100%" alt="map animation"/>
     </td>
     <td width="33%" align="center">
       <a href="#zaymazone">
@@ -85,21 +84,26 @@
       <br/>
       <sub>React • Node/Express • MongoDB • Tailwind</sub>
       <br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNqNXZqM2JwbTVlMDF0eGE0eXA3NzJ4eThraHFkOTF3dHBsMDRycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz6F5vT2h2z8ZW/giphy.gif" width="100%" alt="shop animation"/>
+      <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="100%" alt="shop animation"/>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>See more about the stack</b></summary>
+<!-- ============================= TIMELINE ============================= -->
 
-* **Cellence AI** — Python, TensorFlow, RDKit, DeepPurpose, pandas; experiments with **MolGPT**.
-* **ResQnet** — HTML/CSS/JS, Flask backend, JSON APIs, Gemini & other endpoints.
-* **Zaymazone** — MERN with Tailwind + reusable components.
+## ⏳ Journey Timeline
 
-</details>
+```mermaid
+timeline
+  title My Tech Journey
+  2023 : Started learning C, C++, Java, Python
+  2024 : Built first full‑stack apps, entered hackathons
+  2025 : Internships in Data Analysis & Web Development
+  2025 : Created AI projects — Cellence AI, ResQnet
+  Future : Building scalable AI x Full‑Stack solutions, leadership, research
+```
 
-<!-- ============================= SKILLS (ICON GRID) ============================= -->
+<!-- ============================= TOOLBOX ============================= -->
 
 ## 🧰 Toolbox
 
@@ -115,46 +119,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
-<!-- ============================= MIND MAP (MERMAID) ============================= -->
+<!-- ============================= NOW SECTION ============================= -->
 
-## 🗺️ What I Focus On
+## 📌 Currently
 
-```mermaid
-%%{init: { 'theme': 'dark', 'themeVariables': { 'primaryColor': '#0e75b6', 'lineColor': '#0e75b6', 'tertiaryColor': '#0b1220' }}}%%
-flowchart TD
-    A[AI × Full‑Stack]:::hub --> B{AI/ML}
-    A --> C{Full Stack}
-    A --> D{Principles}
+* 🚀 Exploring **Generative AI with Gemini API**
+* 🛠️ Building advanced **data-driven dashboards**
+* 🧑‍🤝‍🧑 Leading small project teams in hackathons
 
-    B --> B1[Python]
-    B --> B2[TensorFlow]
-    B --> B3[Deep Learning / CNNs]
-
-    C --> C1[React]
-    C --> C2[Node/Express]
-    C --> C3[MongoDB]
-    C --> C4[Tailwind]
-
-    D --> D1[Scalable Architecture]
-    D --> D2[Data‑Driven Decisions]
-    D --> D3[User‑Centric Design]
-
-    classDef hub fill:#0e75b6,color:#fff,stroke:#ffffff,stroke-width:2px;
-```
-
-<!-- ============================= CERTS ============================= -->
+<!-- ============================= CERTIFICATIONS ============================= -->
 
 ## 🎓 Certifications
 
-* Azure AI Fundamentals • Azure Fundamentals
+* Microsoft Azure AI Fundamentals • Azure Fundamentals
 * MongoDB Basics
 * Postman AI Fundamentals — Student Expert
-* Google Cloud: Gemini & Imagen skill badges
+* Google Cloud Gemini & Imagen Skill Badges
 
 <!-- ============================= CONTACT ============================= -->
 
@@ -169,10 +151,3 @@ flowchart TD
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0e75b6&height=120&section=footer"/>
 </p>
-
-<!--
-Notes:
-- Replace GIFs if you prefer self-hosted assets.
-- All animations are lightweight SVG/GIF embeds that work on GitHub markdown.
-- Mermaid renders natively on GitHub; the init block sets a dark theme.
--->
