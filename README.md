@@ -93,7 +93,8 @@ Full-stack **MERN e-commerce site** for artisans. Responsive UI built with **Tai
 
 * 🐙 GitHub: [@JabezJesudasonJena](https://github.com/JabezJesudasonJena)
 * 💼 LinkedIn: [jabezjena](https://linkedin.com/in/jabezjena)
-* ✉️ Email: [jabezjena@gmail.com](mailto:jabezjena@gmail.com)
+* ✉️ Email: [jabezjena@gmail.com](m[Jabez Jena Resume.pdf](https://github.com/user-attachments/files/21823654/Jabez.Jena.Resume.pdf)
+ailto:jabezjena@gmail.com)
 * 📞 Phone: [+91 7339169228](tel:+917339169228)
 
 ---
