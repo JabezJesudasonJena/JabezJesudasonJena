@@ -1,4 +1,4 @@
-<!-- Profile README for GitHub | Jabez Jena (Advanced + Dynamic) -->
+<!-- Profile README for GitHub | Jabez Jena (Advanced + Dynamic + Interactive) -->
 
 <!-- ============================= HERO ============================= -->
 
@@ -48,13 +48,66 @@ $ motto
 
 </div>
 
+<!-- ============================= 3D CONTRIBUTION GLOBE ============================= -->
+
+## 🌐 3D Contribution Globe
+
+<p align="center">
+  <!-- Interactive Skyline Link -->
+  <a href="https://skyline.github.com/JabezJesudasonJena/2025" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive-3D%20Skyline-0e75b6?style=for-the-badge&logo=github" alt="Open interactive 3D skyline"/>
+  </a>
+  <br/>
+  <!-- Personal Skyline Screen Capture GIF -->
+  <img src="https://raw.githubusercontent.com/JabezJesudasonJena/JabezJesudasonJena/main/assets/skyline-preview.gif" width="420" alt="3D Skyline preview"/>
+</p>
+
+> ⚡ *Tip*: Host a fully interactive 3D globe with [globe.gl](https://github.com/vasturiano/globe.gl) on **GitHub Pages** → then embed or link it here.
+
+<!-- ============================= CONTRIBUTION SNAKE ============================= -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/JabezJesudasonJena/JabezJesudasonJena/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 <!-- ============================= DYNAMIC CODING TIME ============================= -->
 
 ## ⌨️ Weekly Development Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JabezJesudasonJena&theme=radical&layout=compact&hide_border=true" alt="WakaTime stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jabezjena&theme=radical&layout=compact&hide_border=true" alt="WakaTime stats"/>
 </p>
+
+<!-- ============================= 3D CONTRIBUTION GLOBE ============================= -->
+
+## 🌐 3D Contribution Globe
+
+<p align="center">
+  <!-- Clickable badge to interactive Skyline (3D) -->
+  <a href="https://skyline.github.com/JabezJesudasonJena/2025" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive-3D%20Skyline-0e75b6?style=for-the-badge&logo=github" alt="Open interactive 3D skyline"/>
+  </a>
+  <br/>
+  <!-- Personal skyline preview GIF (replace with your recording from Skyline) -->
+  <img src="https://raw.githubusercontent.com/JabezJesudasonJena/contrib-globe/main/assets/skyline-preview.gif" width="420" alt="3D Skyline preview (your own)"/>
+</p>
+
+> **Want a truly interactive globe inside GitHub Pages?** I built a static site using **Three.js + Globe.gl** that reads contribution data from a JSON file (auto‑updated daily via **GitHub Actions**). Template included below.
+
+**Setup (once):**
+
+1. Create a new repo, e.g. `contrib-globe`, and enable **GitHub Pages** (Settings → Pages → Source: `main`).
+2. Add a repo secret **`GH_TOKEN`** (PAT with GraphQL read).
+3. Unzip & push files from **contrib‑globe.zip** to that repo (included below).
+4. Record your Skyline → export a short GIF → place at `assets/skyline-preview.gif`.
+
+**Embed in README:**
+
+```md
+[Open my interactive 3D globe](https://<your-username>.github.io/contrib-globe/)
+```
 
 <!-- ============================= FEATURED PROJECTS ============================= -->
 
@@ -156,6 +209,57 @@ timeline
 * 🐙 GitHub: <a href="https://github.com/JabezJesudasonJena">@JabezJesudasonJena</a>
 * 💼 LinkedIn: <a href="https://linkedin.com/in/jabezjena">jabezjena</a>
 * ✉️ Email: <a href="mailto:jabezjenaofficial@gmail.com">[jabezjenaofficial@gmail.com](mailto:jabezjenaofficial@gmail.com)</a>
+
+<!-- ============================= CONTRIBUTION SNAKE ============================= -->
+
+## 🐍 Contribution Snake
+
+> Auto‑generated SVG that slithers through your contribution grid. Updates daily via GitHub Actions.
+
+<!-- Dark mode -->
+
+![snake dark](https://raw.githubusercontent.com/JabezJesudasonJena/JabezJesudasonJena/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<!-- Light mode -->
+
+![snake light](https://raw.githubusercontent.com/JabezJesudasonJena/JabezJesudasonJena/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<details>
+  <summary><b>How to enable the snake (once)</b></summary>
+
+1. In your <i>profile repo</i> (must be named <code>JabezJesudasonJena</code>), create <code>.github/workflows/snake.yml</code> with this:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every day at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: JabezJesudasonJena
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Commit. The workflow publishes SVGs to the <code>output</code> branch.
+3. The images above will render automatically.
+
+</details>
 
 <!-- Animated footer wave -->
 
