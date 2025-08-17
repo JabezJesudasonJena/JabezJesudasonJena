@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-<h1>Hi, I'm Jabez Jena</h1>
+<a href="https://github.com/JabezJesudasonJena">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=0e75b6&center=true&vCenter=true&width=435&lines=Jabez+Jena;AI+%26+Machine+Learning+Developer;Full+Stack+Problem+Solver" alt="Typing SVG"/>
+</a>
 <p>I turn complex problems into elegant, AI-powered solutions. Below are some of the projects I'm most proud of.</p>
 </div>
 
@@ -9,8 +10,9 @@
 <!-- Project 1: Cellence AI -->
 <tr>
 <td width="50%">
+<!-- TODO: Replace this placeholder with a GIF of your actual project! -->
 <a href="https://github.com/JabezJesudasonJena/Cellence-Drug-Discovery-model">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6dWZ2Z2NlZzF4aGg3ZTV5Y2U5M3J1dnd0bHN6eGE5aGNhZzZpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwkyY4lB2iA5a/giphy.gif" alt="Cellence AI Demo" width="100%"/>
+<img src="https://placehold.co/600x400/0e75b6/FFFFFF?text=Cellence+AI+Demo" alt="Cellence AI Demo" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
@@ -32,8 +34,9 @@
 <!-- Project 2: ResQnet -->
 <tr>
 <td width="50%">
+<!-- TODO: Replace this placeholder with a GIF of your actual project! -->
 <a href="https://jabezjesudasonjena.github.io/ResQnet/">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y4c2d0eXNqM2VpYnN0Z3Q1eXJ0aXU0ZmFzY3V0Z3Z4aGZqYm0xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="ResQnet Demo" width="100%"/>
+<img src="https://placehold.co/600x400/0e75b6/FFFFFF?text=ResQnet+Demo" alt="ResQnet Demo" width="100%"/>
 </a>
 </td>
 <td width="50%" valign="top">
@@ -55,8 +58,8 @@
 <!-- Project 3: Zaymazone -->
 <tr>
 <td width="50%">
-<!-- You can create a GIF of your app and replace this URL -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dyM3g4c3M5a3c2M3pnaXN1b200b3B1M215eG5zM2l2eWJrbjEmdD12&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Zaymazone Demo" width="100%"/>
+<!-- TODO: Replace this placeholder with a GIF of your actual project! -->
+<img src="https://placehold.co/600x400/0e75b6/FFFFFF?text=Zaymazone+Demo" alt="Zaymazone Demo" width="100%"/>
 </td>
 <td width="50%" valign="top">
 <h3>Zaymazone: E-commerce Platform</h3>
@@ -88,10 +91,12 @@
 </ul>
 </details>
 
-📊 GitHub Stats
+📊 My GitHub Stats & Activity
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&theme=radical&rank_icon=github" alt="GitHub stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JabezJesudasonJena&layout=compact&theme=radical" alt="Top languages" height="170"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JabezJesudasonJena&theme=radical" alt="GitHub Activity Graph"/>
 </p>
 
 📫 Let's Connect
