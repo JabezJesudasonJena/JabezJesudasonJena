@@ -1,8 +1,8 @@
-<!-- Profile README for GitHub | Jabez Jena (Resume-based with subtle animations) -->
+<!-- Profile README for GitHub | Jabez Jena (Resume-based) -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jabez+Jesudason+Jena+%F0%9F%91%8B;AI+Explorer+%7C+Full‑Stack+Developer;Building+solutions+that+matter" alt="Typing SVG"/>
-</p>
+# Hello This is Jabez Jesudason Jena
+
+💡 *AI Explorer | Full‑Stack Developer | Problem Solver*
 
 ---
 
@@ -76,15 +76,6 @@ Full‑stack **MERN e‑commerce platform** for artisans to showcase and sell th
 * Presented **technical papers** in college
 * Participated in **20+ technical events & hackathons** (as Team Lead)
 * Experienced in **leadership, public speaking, and teamwork**
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
