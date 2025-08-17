@@ -1,41 +1,18 @@
-<!-- Profile README for GitHub | Jabez Jena (Resume-based) -->
+<!-- Profile README for GitHub | Jabez Jena (Resume-aligned with subtle animations) -->
 
-# Hello This is Jabez Jesudason Jena
-
-💡 *AI Explorer | Full‑Stack Developer | Problem Solver*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jabez+Jesudason+Jena+%F0%9F%91%8B;AI+Explorer+%7C+Full-Stack+Developer;Passionate+about+Building+Solutions+that+Matter" alt="Typing SVG"/>
+</p>
 
 ---
 
 ## 📖 Summary
 
-* Passionate about **technology and innovation**, constantly exploring new ideas.
-* Thrive in **collaborative environments**, learning and sharing experiences.
-* Love building **practical projects** that solve real-world problems.
-* Strong belief in the **power of AI** to create impactful solutions.
-* Goal: keep building, connecting, and creating **solutions that matter**.
-
----
-
-## 💼 Work Experience
-
-**Data Analyst Intern** — *EinNel Technologies* (Aug 2025 – Present)
-Result‑oriented professional skilled in transforming complex datasets into actionable insights. Built interactive dashboards with **Angular** to drive data‑informed decisions.
-
-**Web Developer Intern** — *Thenam Software Solutions* (Jul 2025 – Present)
-Developed **MERN stack** applications with **Tailwind CSS**. Built *Zaymazone*, an e‑commerce site enabling artisans to sell handicrafts.
-
----
-
-## 🚀 Projects
-
-**[Cellence AI](https://github.com/JabezJesudasonJena/Cellence-Drug-Discovery-model)**
-AI‑driven Drug Discovery Model that predicts the best drug binding with a protein to stop viruses. Built with **Python, MolGPT, CNN, RDKit, DeepPurpose, Pandas**.
-
-**[ResQnet](https://jabezjesudasonjena.github.io/ResQnet/)**
-AI‑powered Disaster Management platform offering **AI assistant, shelter locations, and live updates**. Built with **HTML, CSS, JS, Flask, Gemini API**.
-
-**Zaymazone**
-Full‑stack **MERN e‑commerce platform** for artisans to showcase and sell their handicrafts. Enhanced with **Tailwind CSS** for responsive design.
+* Deeply passionate about **technology**, always exploring innovations.
+* Thrive in **collaborative groups**, sharing and learning together.
+* Love to build **practical projects** with real-world impact.
+* Strong believer in the **power of AI** to solve meaningful problems.
+* Aim: keep building, improving, and connecting to create impactful solutions.
 
 ---
 
@@ -47,35 +24,68 @@ Full‑stack **MERN e‑commerce platform** for artisans to showcase and sell th
 
 ## 📜 Certifications
 
-* Microsoft Azure AI Fundamentals • Azure Fundamentals
-* Postman AI Fundamentals (Student Expert)
+* Postman AI Fundamentals — Student Expert
+* Microsoft Azure AI Fundamentals
+* Microsoft Azure Fundamentals
 * MongoDB Basics
-* Google Cloud: Gemini & Imagen Skill Badges
+* Explore Generative AI with Gemini API (Skill Badge)
+* Build Real-World AI Apps with Gemini & Imagen (Skill Badge)
 
 ---
 
 ## 🧰 Skills
 
-**Languages:** Python, C, C++, Java, JavaScript, NoSQL, CSS
-**Frameworks & Tools:** React, Node.js/Express, MongoDB, TensorFlow, Angular, Flutter, Arduino
-**Design:** Tailwind CSS, Figma, Canva
-**Editors/IDE:** VS Code, Vim
+**Technical Skills:** Python, C, C++, Java, JavaScript, NoSQL, CSS, MongoDB, Tailwind CSS, Angular
+**Tools & Frameworks:** React, Express, MongoDB, Flutter, Arduino, TensorFlow, VS Code, Vim, Figma, Canva
 
 ---
 
 ## 🌍 Languages I Speak
 
 * Tamil • English • Hindi • Odia • Bengali
-  *(Helps me connect with diverse cultures and communities)*
+  *(Helps me connect with diverse communities and cultures)*
 
 ---
 
 ## 🏆 Leadership & Experience
 
-* Team Leader in **Google Developer Group Solution Challenge 2025**
+* Team Leader in **GDG Solution Challenge 2025**
+* Contributed in **20+ Technical Events**
 * Presented **technical papers** in college
-* Participated in **20+ technical events & hackathons** (as Team Lead)
-* Experienced in **leadership, public speaking, and teamwork**
+* Participated in several **Hackathons** as **Team Lead**
+* Gained skills in **leadership, communication, and public speaking**
+
+---
+
+## 💼 Work Experience
+
+**Data Analyst Intern** — *EinNel Technologies* (Aug 2025 – Present)
+Skilled at turning data into actionable insights. Built **interactive Angular dashboards** for business decisions.
+
+**Web Developer Intern** — *Thenam Software Solutions* (Jul 2025 – Present)
+Developed MERN web apps with **Tailwind CSS**. Created **Zaymazone**, an e-commerce platform for artisans.
+
+---
+
+## 🚀 Projects
+
+**[Cellence AI](https://github.com/JabezJesudasonJena/Cellence-Drug-Discovery-model)**
+AI-driven drug discovery model predicting protein-binding drugs. Built with **Python, MolGPT, CNN, RDKit, DeepPurpose, Pandas**.
+
+**[ResQnet](https://jabezjesudasonjena.github.io/ResQnet/)**
+AI-powered disaster management platform. Provides **AI assistant, shelter locations, and updates**. Built with **Flask, Gemini API, HTML, CSS, JS**.
+
+**Zaymazone**
+Full-stack **MERN e-commerce site** for artisans. Responsive UI built with **Tailwind CSS**.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -83,7 +93,8 @@ Full‑stack **MERN e‑commerce platform** for artisans to showcase and sell th
 
 * 🐙 GitHub: [@JabezJesudasonJena](https://github.com/JabezJesudasonJena)
 * 💼 LinkedIn: [jabezjena](https://linkedin.com/in/jabezjena)
-* ✉️ Email: [jabezjenaofficial@gmail.com](mailto:jabezjenaofficial@gmail.com)
+* ✉️ Email: [jabezjena@gmail.com](mailto:jabezjena@gmail.com)
+* 📞 Phone: [+91 7339169228](tel:+917339169228)
 
 ---
 
