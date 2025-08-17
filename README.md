@@ -1,130 +1,90 @@
-<!-- Profile README for GitHub | Jabez Jena (Refined) -->
+<!-- Profile README for GitHub | Jabez Jena (Resume-based) -->
 
-<!-- ============================= HERO ============================= -->
+# 👋 Hi, I’m Jabez Jesudason Jena
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jabez+Jena+%F0%9F%91%8B;AI+%26+Full+Stack+Developer;Building+solutions+that+matter" alt="Typing SVG"/>
-</p>
+💡 *AI Explorer | Full‑Stack Developer | Problem Solver*
 
-<p align="center">
-  <a href="https://github.com/JabezJesudasonJena"><img alt="GitHub followers" src="https://img.shields.io/github/followers/JabezJesudasonJena?label=Follow&style=flat-square"></a>
-  <a href="mailto:jabezjena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jabezjena%40gmail.com-blue?style=flat-square"></a>
-  <a href="https://linkedin.com/in/jabezjena"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jabezjena-blue?style=flat-square&logo=linkedin"></a>
-  <a alt="Visitors" src="https://komarev.com/ghpvc/?username=JabezJesudasonJena&style=for-the-badge">
-</p>
+---
 
-<!-- ============================= TERMINAL INTRO ============================= -->
+## 📖 Summary
 
-```bash
-$ whoami
-> Jabez Jena: AI Explorer & Full Stack Builder
+* Passionate about **technology and innovation**, constantly exploring new ideas.
+* Thrive in **collaborative environments**, learning and sharing experiences.
+* Love building **practical projects** that solve real-world problems.
+* Strong belief in the **power of AI** to create impactful solutions.
+* Goal: keep building, connecting, and creating **solutions that matter**.
 
-$ motto
-> "I don’t just build projects. I build solutions."
-```
+---
 
-<!-- ============================= QUICK STATS ============================= -->
+## 💼 Work Experience
 
-<div align="center">
+**Data Analyst Intern** — *EinNel Technologies* (Aug 2025 – Present)
+Result‑oriented professional skilled in transforming complex datasets into actionable insights. Built interactive dashboards with **Angular** to drive data‑informed decisions.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Jabez's GitHub stats"/>
-</a>
-<a href="https://git.io/streak-stats">
-  <img height="160" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&hide_border=true&theme=default" alt="GitHub Streak"/>
-</a>
+**Web Developer Intern** — *Thenam Software Solutions* (Jul 2025 – Present)
+Developed **MERN stack** applications with **Tailwind CSS**. Built *Zaymazone*, an e‑commerce site enabling artisans to sell handicrafts.
 
-</div>
+---
 
-<!-- ============================= CONTRIBUTION SNAKE ============================= -->
+## 🚀 Projects
 
-## 🐍 Contribution Snake
+**[Cellence AI](https://github.com/JabezJesudasonJena/Cellence-Drug-Discovery-model)**
+AI‑driven Drug Discovery Model that predicts the best drug binding with a protein to stop viruses. Built with **Python, MolGPT, CNN, RDKit, DeepPurpose, Pandas**.
 
-<p align="center">
-  <img src="https://github.com/JabezJesudasonJena/JabezJesudasonJena/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+**[ResQnet](https://jabezjesudasonjena.github.io/ResQnet/)**
+AI‑powered Disaster Management platform offering **AI assistant, shelter locations, and live updates**. Built with **HTML, CSS, JS, Flask, Gemini API**.
 
-<!-- ============================= FEATURED PROJECTS ============================= -->
+**Zaymazone**
+Full‑stack **MERN e‑commerce platform** for artisans to showcase and sell their handicrafts. Enhanced with **Tailwind CSS** for responsive design.
 
-## 🚀 Featured Projects
+---
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/JabezJesudasonJena/Cellence-Drug-Discovery-model">
-        <b>Cellence AI</b>
-      </a>
-      <br/>
-      <sub>Drug Discovery • MolGPT • Deep Learning</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://jabezjesudasonjena.github.io/ResQnet/">
-        <b>ResQnet</b>
-      </a>
-      <br/>
-      <sub>Disaster Management • AI Assistant • Alerts</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="#zaymazone">
-        <b>Zaymazone</b>
-      </a>
-      <br/>
-      <sub>MERN • Tailwind • E‑commerce for artisans</sub>
-    </td>
-  </tr>
-</table>
+## 🎓 Education
 
-<!-- ============================= TIMELINE ============================= -->
+* **B.E. Computer Science Engineering** — *Prathyusha Engineering College* (2024 – Present)
 
-## ⏳ Journey Timeline
+---
 
-```mermaid
-timeline
-  title My Tech Journey
-  2023 : Started learning C, C++, Java, Python
-  2024 : Built first full‑stack apps, entered hackathons
-  2025 : Internships in Data Analysis & Web Development
-  2025 : Created AI projects — Cellence AI, ResQnet
-  Future : Building scalable AI x Full‑Stack solutions, leadership, research
-```
-
-<!-- ============================= TOOLBOX ============================= -->
-
-## 🧰 Toolbox
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
-</p>
-
-<!-- ============================= NOW SECTION ============================= -->
-
-## 📌 Currently
-
-* Exploring **Generative AI with Gemini API**
-* Building advanced **data-driven dashboards**
-* Leading project teams in hackathons
-
-<!-- ============================= CERTIFICATIONS ============================= -->
-
-## 🎓 Certifications
+## 📜 Certifications
 
 * Microsoft Azure AI Fundamentals • Azure Fundamentals
+* Postman AI Fundamentals (Student Expert)
 * MongoDB Basics
-* Postman AI Fundamentals — Student Expert
-* Google Cloud Gemini & Imagen Skill Badges
+* Google Cloud: Gemini & Imagen Skill Badges
 
-<!-- ============================= CONTACT ============================= -->
+---
 
-## 📫 Let’s Collaborate
+## 🧰 Skills
 
-* 🐙 GitHub: <a href="https://github.com/JabezJesudasonJena">@JabezJesudasonJena</a>
-* 💼 LinkedIn: <a href="https://linkedin.com/in/jabezjena">jabezjena</a>
-* ✉️ Email: <a href="mailto:jabezjenaofficial@gmail.com">[jabezjenaofficial@gmail.com](mailto:jabezjenaofficial@gmail.com)</a>
+**Languages:** Python, C, C++, Java, JavaScript, NoSQL, CSS
+**Frameworks & Tools:** React, Node.js/Express, MongoDB, TensorFlow, Angular, Flutter, Arduino
+**Design:** Tailwind CSS, Figma, Canva
+**Editors/IDE:** VS Code, Vim
+
+---
+
+## 🌍 Languages I Speak
+
+* Tamil • English • Hindi • Odia • Bengali
+  *(Helps me connect with diverse cultures and communities)*
+
+---
+
+## 🏆 Leadership & Experience
+
+* Team Leader in **Google Developer Group Solution Challenge 2025**
+* Presented **technical papers** in college
+* Participated in **20+ technical events & hackathons** (as Team Lead)
+* Experienced in **leadership, public speaking, and teamwork**
+
+---
+
+## 📫 Let’s Connect
+
+* 🐙 GitHub: [@JabezJesudasonJena](https://github.com/JabezJesudasonJena)
+* 💼 LinkedIn: [jabezjena](https://linkedin.com/in/jabezjena)
+* ✉️ Email: [jabezjenaofficial@gmail.com](mailto:jabezjenaofficial@gmail.com)
+
+---
+
+🔥 *“Technology isn’t just about code — it’s about creating solutions that impact lives.”*
