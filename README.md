@@ -1,4 +1,4 @@
-<!-- Profile README for GitHub | Jabez Jena (Advanced) -->
+<!-- Profile README for GitHub | Jabez Jena (Advanced + Dynamic) -->
 
 <!-- ============================= HERO ============================= -->
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/JabezJesudasonJena"><img alt="GitHub followers" src="https://img.shields.io/github/followers/JabezJesudasonJena?label=Follow&style=for-the-badge"></a>
-  <a href="mailto:jabezjena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jabezjena%40gmail.com-blue?style=for-the-badge"></a>
+  <a href="mailto:jabezjenaofficial@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jabezjenaofficial%40gmail.com-blue?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/jabezjena"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jabezjena-blue?style=for-the-badge&logo=linkedin"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=JabezJesudasonJena&style=for-the-badge">
 </p>
@@ -42,8 +42,19 @@ $ motto
 <a href="https://git.io/streak-stats">
   <img height="170" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&hide_border=true&theme=radical" alt="GitHub Streak"/>
 </a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=JabezJesudasonJena&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</a>
 
 </div>
+
+<!-- ============================= DYNAMIC CODING TIME ============================= -->
+
+## ⌨️ Weekly Development Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jabezjena&theme=radical&layout=compact&hide_border=true" alt="WakaTime stats"/>
+</p>
 
 <!-- ============================= FEATURED PROJECTS ============================= -->
 
