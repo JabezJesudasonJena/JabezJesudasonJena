@@ -62,7 +62,7 @@ $ motto
   <img src="https://raw.githubusercontent.com/JabezJesudasonJena/JabezJesudasonJena/main/assets/skyline-preview.gif" width="420" alt="3D Skyline preview"/>
 </p>
 
-> ⚡ *Tip*: Host a fully interactive 3D globe with [globe.gl](https://github.com/vasturiano/globe.gl) on **GitHub Pages** → then embed or link it here.
+> ⚡ *Tip*: Host a fully interactive 3D globe with [globe.gl](https://globe.gl/example/world-population/) on **GitHub Pages** → then embed or link it here.
 
 <!-- ============================= CONTRIBUTION SNAKE ============================= -->
 
