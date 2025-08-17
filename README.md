@@ -53,7 +53,7 @@ $ motto
 ## ⌨️ Weekly Development Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jabezjena&theme=radical&layout=compact&hide_border=true" alt="WakaTime stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JabezJesudasonJena&theme=radical&layout=compact&hide_border=true" alt="WakaTime stats"/>
 </p>
 
 <!-- ============================= FEATURED PROJECTS ============================= -->
