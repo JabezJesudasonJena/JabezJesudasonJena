@@ -20,18 +20,6 @@
 
 * **B.E. Computer Science Engineering** — *Prathyusha Engineering College* (2024 – Present)
 
----
-
-## 📜 Certifications
-
-* Postman AI Fundamentals — Student Expert
-* Microsoft Azure AI Fundamentals
-* Microsoft Azure Fundamentals
-* MongoDB Basics
-* Explore Generative AI with Gemini API (Skill Badge)
-* Build Real-World AI Apps with Gemini & Imagen (Skill Badge)
-
----
 
 ## 🧰 Skills
 
