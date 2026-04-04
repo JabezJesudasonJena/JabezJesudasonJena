@@ -8,7 +8,6 @@ Learning. Shipping. Improving.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
   <img height="160" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
