@@ -10,6 +10,11 @@ Learning. Building. Improving.
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=jabezjesudasonjena&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 
 
