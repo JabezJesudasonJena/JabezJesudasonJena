@@ -14,7 +14,7 @@ Learning. Building. Improving.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=jabezjesudasonjena&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jabezjesudasonjena&theme=dark" alt="GitHub Trophies" />
 </p>
 
 ## Contribution Graph 
