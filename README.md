@@ -7,9 +7,7 @@ Learning. Building. Improving.
 
 ## ⛳ GitHub Overview
 
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=JabezJesudasonJena&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jabezjesudasonjena&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 ## 🏆 GitHub Trophies
 
