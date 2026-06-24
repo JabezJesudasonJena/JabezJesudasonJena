@@ -1,4 +1,4 @@
-Hello Jabez here...!!!
+Jabez Here !
 
 A Backend + Full Stack developer  
 Focused on building things that actually matter.
