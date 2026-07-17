@@ -1,44 +1,78 @@
-<h1 align="center">Hi there, I'm Jabez Jesudason Jena 👋</h1>
-<h3 align="center">Full-Stack Developer | Engineering Student | Hackathon Enthusiast</h3>
-
-<p align="center">
+<div align="center">
+  
+  # Jabez Jesudason Jena
+  
   <a href="https://github.com/JabezJesudasonJena">
-    <img src="https://komarev.com/ghpvc/?username=JabezJesudasonJena&label=Profile%20views&color=0e75b6&style=flat" alt="JabezJesudasonJena" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Systems;Building+Decentralized+Identity;Engineering+Logistics+APIs;Full-Stack+Mobile+%26+Web" alt="Typing SVG" />
   </a>
-</p>
 
----
+  <p><b>Systems Engineering | Full-Stack Development | Socio-Economic Tech</b></p>
+  
+  <a href="mailto:jabezjena@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/JabezJesudasonJena"><img src="https://img.shields.io/github/followers/JabezJesudasonJena?style=for-the-badge&color=black&logo=github"></a>
+</div>
 
-### 👨‍💻 About Me
-- 🎓 I'm an 18-year-old **Second-Year Engineering Student**.
-- 💻 I specialize in **Full-Stack Web & Mobile Application Development**.
-- 🛠️ Currently focusing on high-precision geocoding, logistics APIs, and complex database schema design.
-- 🏆 Passionate about competitive hackathons, especially building tech to solve socio-economic issues.
-- 🚀 Always striving to write clean, scalable code and build impactful systems.
+<br><br>
 
-### 🛠️ Tech Stack & Tools
-**Frontend & Mobile:** <br>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+## ⚡ Technical Arsenal
 
-**Backend & Database:** <br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+I build across the stack, focusing on performance, data integrity, and scalable schemas.
 
-### 🚀 Featured Projects
-- **ShramID:** A self-sovereign digital identity project utilizing W3C Decentralized Identifiers, designed for migrant workforce mobility.
-- **Eventify & Academic Systems:** Node.js and PostgreSQL-based systems for event registration and course selection.
-- **Healthcare Interaction System:** A comprehensive Doctor and Patient Interaction Management System.
-- **Logistics Solutions:** Implementing high-precision geocoding and location-based services (Mappls) for robust delivery architectures.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,react,postgres,prisma,linux,git&perline=10" />
+</div>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JabezJesudasonJena&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=0d1117" alt="Jabez's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JabezJesudasonJena&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&background=0d1117" alt="Jabez's GitHub Streak" width="48%" />
-</p>
+<br>
 
----
-<p align="center"><i>"Building robust systems and solving real-world problems through code."</i></p>
+## 🏗️ Architecture & Core Projects
+
+<details open>
+<summary><b>1. ShramID (Self-Sovereign Digital Identity)</b></summary>
+<br>
+<blockquote>
+  <b>Problem:</b> Lack of verifiable, portable identity for migrant workforces leading to socio-economic friction.<br>
+  <b>Solution:</b> Engineered a decentralized identity platform utilizing W3C Decentralized Identifiers (DIDs).<br>
+  <b>Stack:</b> Node.js, React Native, W3C DIDs<br>
+  <b>Impact:</b> Facilitates secure, interoperable workforce mobility and credential verification without central points of failure.
+</blockquote>
+</details>
+
+<details open>
+<summary><b>2. High-Precision Logistics & Routing Engine</b></summary>
+<br>
+<blockquote>
+  <b>Problem:</b> Standard geocoding APIs lack the hyper-local precision required for seamless last-mile delivery.<br>
+  <b>Solution:</b> Integrated Mappls (MapmyIndia) API to build a highly accurate location-based service mimicking Zomato/Blinkit-level precision.<br>
+  <b>Stack:</b> Node.js, PostgreSQL, Mappls API, Spatial Data Processing<br>
+  <b>Impact:</b> Enables robust delivery architecture with real-time, highly accurate localized geocoding.
+</blockquote>
+</details>
+
+<details open>
+<summary><b>3. Highly Normalized Relational Systems (Eventify & Healthcare)</b></summary>
+<br>
+<blockquote>
+  <b>Problem:</b> Complex state management and inefficient data retrieval in academic and medical enrollment systems.<br>
+  <b>Solution:</b> Architected strictly normalized database schemas for a Doctor/Patient Interaction System and Course Selection platforms.<br>
+  <b>Stack:</b> PostgreSQL, Prisma, SQL, Node.js<br>
+  <b>Impact:</b> Ensures zero data redundancy, complex ER handling, and optimized query execution at scale.
+</blockquote>
+</details>
+
+<br>
+
+## 📊 Operational Metrics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JabezJesudasonJena&theme=transparent&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=777777" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <i>"Writing code is easy. Designing systems that don't fail under pressure is the actual job."</i>
+</div>
