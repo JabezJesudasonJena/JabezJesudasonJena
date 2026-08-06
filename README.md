@@ -72,16 +72,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jabezjesudasonjena&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -102,15 +92,6 @@
 
 ---
 
-## ☕ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 ## 👀 Profile Views
 
