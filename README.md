@@ -1,93 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Jabez%20Jena&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Systems%20Architecture%20%C2%B7%20Security&descSize=18&descColor=cbd5e1&descAlignY=58" alt="Jabez Jena" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,55:10244d,100:1d4ed8&height=190&text=Jabez%20Jena&fontSize=46&fontColor=e6edf3&fontAlignY=42&desc=Backend%20Engineer%20%7C%20Systems%20Architecture%20%7C%20Cybersecurity&descSize=15&descColor=8b949e&descAlignY=64&animation=twinkling" alt="Jabez Jena - Backend Engineer" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=%24+building+reliable+backend+systems;%24+architecting+for+scale+and+security;%24+learning+something+new+every+day" alt="Typing animation" />
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/jabezjesudasonjena"><img src="https://img.shields.io/github/followers/jabezjesudasonjena?label=Followers&style=for-the-badge&logo=github&color=1E293B" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jabezjesudasonjena&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://github.com/jabezjesudasonjena?tab=followers"><img src="https://img.shields.io/github/followers/jabezjesudasonjena?style=flat-square&logo=github&label=followers&color=58a6ff&labelColor=0d1117" alt="GitHub followers" /></a>
 </p>
 
 </div>
 
----
+## `~/whoami`
 
-## 👨‍💻 About Me
+```ts
+const jabez = {
+  role:       "Backend Engineer",
+  education:  "Computer Science Engineering · 3rd year",
+  experience: "1 yr as Team Lead Backend Developer · startup + MNC",
+  currently:  "Interning · exposure to team-level technical decisions",
+  focus:      ["Backend Engineering", "Systems Architecture", "Cybersecurity"],
+  exploring:  ["Cloud & DevOps", "AI-driven automation"],
+  openTo:     ["Internships", "Open source", "Collaboration"],
+} as const;
+```
 
-I'm a third-year Computer Science Engineering student and backend developer who enjoys designing systems that are **reliable, secure, and built to scale**. I've worked as a team lead backend developer across a startup and an MNC, and I'm currently interning, where I get hands-on exposure to real engineering decisions at the team level.
+## `~/architecture`
 
-- 🔭 **Focus areas:** Backend engineering, systems architecture, cybersecurity
-- 🏗️ **Currently building:** A production-style NestJS backend, an offline-capable logistics platform, and an AI-driven logistics solution for the North East region of India
-- 🌱 **Currently exploring:** Cloud, DevOps, and AI-driven automation
-- 🎯 **Goal:** Contribute to open source and grow as a backend / platform engineer
+The way I like to think about a system, and the tools I use at each layer:
 
----
+```mermaid
+flowchart LR
+    A["<b>Client</b><br/>React · Next.js · Tailwind"]:::client
+    B["<b>API Layer</b><br/>Node.js · NestJS · Express<br/>TypeScript · Prisma"]:::api
+    C[("<b>PostgreSQL</b><br/>MongoDB")]:::data
+    D[("<b>Redis</b><br/>Caching")]:::data
+    E["<b>Infrastructure</b><br/>Docker · Kubernetes<br/>Azure · Linux"]:::infra
 
-## 🛠️ Tech Stack
+    A -->|REST| B
+    B --> C
+    B --> D
+    E -. hosts .-> B
 
-<table>
-  <tr>
-    <td width="160"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases" /></td>
-  </tr>
-  <tr>
-    <td><b>DevOps &amp; Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,azure,git,github" alt="DevOps and Cloud" /></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Tools" /></td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| **[Synapse](https://github.com/jabezjesudasonjena/synapse)** | A Trello/Linear-style project management backend, built level by level to demonstrate production-grade backend practices: JWT auth with refresh rotation, workspaces, projects and tasks, and more. | `NestJS` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Docker` |
-| **[MountainRoute](https://github.com/jabezjesudasonjena/mountainroute)** | An offline-capable, terrain-aware logistics operations platform with an ops dashboard and driver app, designed to plug into a real backend and geographic data. | `Next.js` `TypeScript` `Tailwind CSS` |
-| **[Pravaha](https://github.com/jabezjesudasonjena/pravaha)** | AI-powered intelligent logistics for North East India: risk-aware route planning, vehicle tracking, driver safety, and cargo protection. Built for Smart India Hackathon. | `AI/ML` `Offline-first` `Dashboard` |
-
----
-
-## 📊 GitHub Stats
+    classDef client fill:#1d4ed8,stroke:#60a5fa,color:#ffffff,stroke-width:1.5px
+    classDef api fill:#0f766e,stroke:#5eead4,color:#ffffff,stroke-width:1.5px
+    classDef data fill:#6d28d9,stroke:#c4b5fd,color:#ffffff,stroke-width:1.5px
+    classDef infra fill:#334155,stroke:#94a3b8,color:#ffffff,stroke-width:1.5px
+```
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jabezjesudasonjena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabezjesudasonjena&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=jabezjesudasonjena&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,html,css,nodejs,nestjs,express,prisma,react,nextjs,tailwind,postgres,mongodb,redis,docker,kubernetes,linux,azure,git,github,postman,figma,vscode&perline=13&theme=dark" alt="Full toolbelt" />
 
 </div>
 
----
-
-## 🤝 Let's Connect
-
-I'm open to internships, collaborations, and open-source contributions in backend and systems engineering. Feel free to reach out through any of the links above.
+## `~/stats`
 
 <div align="center">
 
-> *"Great software isn't just built. It's engineered."*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jabezjesudasonjena&show_icons=true&count_private=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabezjesudasonjena&layout=compact&langs_count=6&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" alt="" />
+<img src="https://streak-stats.demolab.com?user=jabezjesudasonjena&hide_border=false&border=30363D&stroke=30363D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabezjesudasonjena&bg_color=0d1117&color=8b949e&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jabezjesudasonjena&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&section=footer&color=0:1d4ed8,45:10244d,100:0d1117&height=120&text=Great%20software%20isn%27t%20just%20built.%20It%27s%20engineered.&fontSize=18&fontColor=e6edf3&fontAlignY=50" alt="Great software isn't just built. It's engineered." width="100%" />
+
+</div>
