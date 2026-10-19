@@ -64,8 +64,6 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=jabezjesudasonjena&hide_border=false&border=30363D&stroke=30363D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabezjesudasonjena&bg_color=0d1117&color=8b949e&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution graph" width="100%" />
-
 </div>
 
 <br/>
